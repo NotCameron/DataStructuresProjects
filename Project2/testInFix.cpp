@@ -3,6 +3,9 @@
 // Cameron Fisher - Section 2
 // Last Modified: 11/08/2021
 //
+
+// Currently never utilized. May return to this project later and use the shunting yard algorithm to be able to parse infix notation into reverse polish notation.
+
 #include "Stack.h"
 
 int main() {
